@@ -1,6 +1,6 @@
 spring:
   application:
-    name: Customer-Service
+    name: customer-service
 
   config:
     import: "configserver:"
